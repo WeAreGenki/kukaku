@@ -1,0 +1,14 @@
+{
+  "name": "kukaku",
+  "version": "0.0.0",
+  "description": "WIP",
+  "repository": "https://github.com/WeAreGenki/kukaku",
+  "bugs": "https://github.com/WeAreGenki/kukaku/issues",
+  "homepage": "https://wearegenki.com/open-source",
+  "author": "Max Milton <max@wearegenki.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {}
+}
